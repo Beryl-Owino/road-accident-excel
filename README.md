@@ -20,6 +20,6 @@ This project explores patterns in road accidents using real-world data, with a f
 - Built a dashboard with filters for real-time exploration
 
 ## 📸 Sample Dashboard (optional screenshot)
-_If you want to include a screenshot, save it in the repo and use:_
 ```markdown
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screen![Dashboard](https://github.com/user-attachments/assets/4e679d4e-2b8e-4f0b-992c-631ec08f3d77)
+shot](dashboard.png)
