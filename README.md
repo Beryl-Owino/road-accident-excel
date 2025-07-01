@@ -16,10 +16,10 @@ This project explores patterns in road accidents using real-world data, with a f
 ## 🚀 Key Analysis & Insights
 - Created interactive monthly and yearly trend charts
 - Identified peak accident months and severity breakdown
-- Analyzed impact of road surface, lighting, and vehicle type
+- Analyzed the impact of road surface, lighting, and vehicle type
 - Built a dashboard with filters for real-time exploration
 
 ## 📸 Sample Dashboard (optional screenshot)
 ```markdown
-![Dashboard Screen![Dashboard](https://github.com/user-attachments/assets/4e679d4e-2b8e-4f0b-992c-631ec08f3d77)
-shot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
+
