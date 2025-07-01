@@ -19,7 +19,6 @@ This project explores patterns in road accidents using real-world data, with a f
 - Analyzed the impact of road surface, lighting, and vehicle type
 - Built a dashboard with filters for real-time exploration
 
-## 📸 Sample Dashboard 
-```markdown
+## 📸 Sample Dashboard
 ![Dashboard Screenshot](Dashboard.png)
 
